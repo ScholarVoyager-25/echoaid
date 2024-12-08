@@ -22,6 +22,8 @@ Video samples are used to assess users cognitive load, user experience (Video 1)
 
 5. `video-introduction/Introduction_En.mp4`: The English version of the introduction video.
 6. `video-introduction/Introduction_Cn.mp4`: The Chinese version of the introduction video.
+7. `video-introduction/Introduction_v2.mp4`: New version of the introduction video (for readers and reviewers).
+8. `video-introduction/RSVP-Example.mp4`: A short video explaining RSVP.
 
 ## Preparation Before Running the Program
 
